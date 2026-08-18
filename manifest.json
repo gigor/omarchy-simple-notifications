@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "gigor.notifications",
+  "name": "Notification History",
+  "version": "1.0.0",
+  "author": "gigor",
+  "description": "Notification history and do-not-disturb control",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Notifications",
+    "description": "Show and clear notification history or toggle do-not-disturb",
+    "category": "System",
+    "allowMultiple": false,
+    "defaultSection": "left"
+  }
+}
