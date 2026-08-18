@@ -1,13 +1,10 @@
 # Omarchy Simple Notifications
 
-A small notification-history widget for the Omarchy bar.
+A small notification-history widget for the Omarchy bar for when you missed a notification.
 
-## Features
+Displays a bell icon: 󰂜 outline if there are no notifications, 󱅫 solid with a dot if there are some,  and  󰪓 with z in dnd mode.
 
-- Show if notification history is not empty.
-- Open notification history with a left click.
-- Turn do-not-disturb on or off with a middle click.
-- Dismiss all notifications and clear history with a right click.
+Left click reveals full notification history. Right click clears it. Middle click toggles dnd.
 
 ## Install
 
