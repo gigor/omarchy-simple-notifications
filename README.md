@@ -18,6 +18,7 @@ omarchy plugin add https://github.com/gigor/omarchy-simple-notifications.git --e
 omarchy plugin remove gigor.notifications
 
 The plugin ID is `gigor.notifications`.
+```
 
 ## License
 
