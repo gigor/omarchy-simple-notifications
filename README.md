@@ -1,3 +1,5 @@
+![Preview](preview.png)
+
 # Omarchy Simple Notifications
 
 A small notification-history widget for the Omarchy bar for when you missed a notification.
