@@ -12,6 +12,11 @@ Left click reveals full notification history. Right click clears it. Middle clic
 omarchy plugin add https://github.com/gigor/omarchy-simple-notifications.git --enable
 ```
 
+## Remove
+
+```bash
+omarchy plugin remove gigor.notifications
+
 The plugin ID is `gigor.notifications`.
 
 ## License
